@@ -1,0 +1,1 @@
+Super basic wrapper for file conversion because using browser-based solutions are cumbersome and my nees are often too simple for the capabilities of the larger files. Just gimme the thing I want ASAP.
